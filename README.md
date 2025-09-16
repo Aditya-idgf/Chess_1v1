@@ -42,7 +42,7 @@ You must have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) i
 ### **Installation & Setup**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/your-username/your-repo-name.git\](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/Aditya-idgf/Chess_1v1](https://github.com/Aditya-idgf/Chess_1v1)]
 
 2. **Navigate to the project directory:**  
    cd your-repo-name
